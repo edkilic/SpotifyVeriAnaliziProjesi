@@ -19,21 +19,21 @@ Kullanıcı dinleme alışkanlıklarını analiz etmek 📈
 
 ## 💻 Kullanılan Teknolojiler
 
--✅ Python
+✅ Python
 
--✅ Pandas & NumPy
+✅ Pandas & NumPy
 
--✅ Matplotlib, Seaborn & Plotly
+✅ Matplotlib, Seaborn & Plotly
 
--✅ Scikit-Learn
+✅ Scikit-Learn
 
--✅ Jupyter Notebook
+✅ Jupyter Notebook
 
--✅ Veri Temizleme ve Ön İşleme
+✅ Veri Temizleme ve Ön İşleme
 
--✅ Keşifsel Veri Analizi (EDA)
+✅ Keşifsel Veri Analizi (EDA)
 
--✅ Modelleme ve Basit İstatistiksel Analizler
+✅ Modelleme ve Basit İstatistiksel Analizler
 
 ## 🔍 Yapılan Analizler ve Adımlar
 
