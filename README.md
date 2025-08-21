@@ -1,13 +1,15 @@
- # 🎵 Spotify Hit Prediction & Veri Analizi 🎵
+ # 🎵 Spotify Veri Analizi  Projesi 🎵
 
 Bu proje, Spotify şarkılarının popülerliğini tahmin etmek ve kullanıcı verilerini analiz etmek amacıyla geliştirilmiştir. Hem veri görselleştirme hem de makine öğrenmesi ile hit şarkıları tahmin etme üzerine çalışmalar yapılmıştır.
-Veri seti ve analizler Kaggle – Very Spotify Songs üzerinden alınmıştır.
+Veri seti ve analizler Kaggle üzerinden alınmıştır.
+
 
  ## 📊 Dataset
 
-Kaynak: Kaggle – Very Spotify Songs
+Kaynak: Kaggle 
 
 İçerik: Şarkıların dans edilebilirlik, enerji, tempo, popülerlik gibi özellikleri ve kullanıcı verileri 🎧
+
 
 ## 🎯 Proje Amacı
 
@@ -16,6 +18,7 @@ Spotify şarkılarının hit olma olasılığını tahmin etmek 🔮
 Kullanıcı dinleme alışkanlıklarını analiz etmek 📈
 
 Şarkı özelliklerinin popülerlik üzerindeki etkilerini görselleştirmek 📊
+
 
 ## 💻 Kullanılan Teknolojiler
 
@@ -34,6 +37,7 @@ Kullanıcı dinleme alışkanlıklarını analiz etmek 📈
 ✅ Keşifsel Veri Analizi (EDA)
 
 ✅ Modelleme ve Basit İstatistiksel Analizler
+
 
 ## 🔍 Yapılan Analizler ve Adımlar
 
@@ -64,6 +68,7 @@ Popülerliği etkileyen önemli özellikler belirlendi
 Modelin tahmin performansı ve kullanıcı davranışları yorumlandı
 
 Grafikli ve interaktif görselleştirmeler ile sonuçlar sunuldu 📈
+
 
 ## 🌟 Proje Özellikleri
 
