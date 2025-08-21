@@ -1,4 +1,4 @@
-#🎵 Spotify Veri Analizi Projesi 🎵
+# 🎵 Spotify Veri Analizi Projesi 🎵
 
 Bu proje, Spotify kullanıcı verilerini analiz etmek ve görselleştirmek amacıyla geliştirilmiştir. Pandas ve veri görselleştirme kütüphaneleri kullanılarak dinleme alışkanlıkları, en popüler şarkılar ve sanatçılar üzerinde analizler gerçekleştirilmiştir.
 
